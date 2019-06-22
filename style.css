@@ -1,0 +1,56 @@
+.recent
+  {
+
+  }
+
+  .recent .news
+  {
+      
+  }
+ 
+  .recent .news .pic9
+  {
+      position: relative;
+  }
+
+  .recent .news .pic9 img
+  {
+    width: 100%;
+  }
+
+  .recent .news:hover .pic9 .colorDiv
+  {
+    opacity: .9;
+    width: 100%;
+  }
+
+  .recent .news .colorDiv{
+      width: 100%;
+      height: 100%;
+      background-color: yellow;
+      opacity: 0;
+      width: 0;
+      transition: all 0.7s ease 0s;
+      position: absolute;
+      top: 0;
+  }
+
+  .recent .news .queew
+  {
+
+  }
+
+  .recent .news .queew h4
+  {
+      
+  }
+
+  .recent .news .queew p
+  {
+      
+  }
+
+  .recent .news .queew i
+  {
+      
+  }
